@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Lettura file STEP")
+st.title("Lettura testo file STEP")
 
 file_step = st.file_uploader(
     "Seleziona un file STEP",
